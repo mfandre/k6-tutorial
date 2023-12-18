@@ -13,7 +13,7 @@ You should run a Load Test to:
 
 The VU chart of a typical load test looks similar to this
 
-![Untitled.png](K6%20Load%20tests%20615167fbf0a8442e8af1b9b6aef262fb/Untitled.png)
+![Load](Untitled.png)
 
 If your system crashes under a load test, it means that your load test has worked as Stress Test. And your system is not supporting the number of users that you want.
 
@@ -37,7 +37,7 @@ A classic example of a need for stress testing is "Black Friday”
 
 The VU chart of a stress test should look similar to this:
 
-![Untitled](K6%20Load%20tests%20615167fbf0a8442e8af1b9b6aef262fb/Untitled%201.png)
+![Stress](Untitled%201.png)
 
 ## Soak Test
 
@@ -58,7 +58,7 @@ You typically run this test to:
 
 The VU chart of a Soak Test should look similar to this:
 
-![Untitled](K6%20Load%20tests%20615167fbf0a8442e8af1b9b6aef262fb/Untitled%202.png)
+![Soak](Untitled%202.png)
 
 Soak testing helps you uncover bugs and reliability issues that surface over an extended period. Many complex systems have bugs of this nature.
 
